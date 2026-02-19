@@ -1,5 +1,5 @@
-project = 'Acura login'
-author = 'acura-login'
+project = 'Acura'
+author = 'acura'
 release = '1.0'
 
 # Extensions
@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://acuralogin.readthedocs.io/en/latest/'
+html_baseurl = 'https://acura.readthedocs.io/en/latest/'
